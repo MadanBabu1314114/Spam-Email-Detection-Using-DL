@@ -2,6 +2,8 @@
 
 ## Project Overview
 
+![image](https://github.com/MadanBabu1314114/Spam-Email-Detection-Using-DL/assets/123216438/bf6755eb-5090-4ee8-ab17-f05b3a8d7dab)
+
 This GitHub repository contains a project focused on spam email detection using deep learning models. The dataset used for training and evaluation is the SMS Spam Collection, which consists of SMS messages tagged as either legitimate (ham) or spam.
 
 ## Dataset Context
@@ -38,20 +40,10 @@ To get started with this project, follow the steps below:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/Spam-Email-Detection-Using-DL.git
+git clone  https://github.com/MadanBabu1314114/Spam-Email-Detection-Using-DL.git
 cd Spam-Email-Detection-Using-DL
 ```
 
-2. Install the required dependencies:
+2. Explore the Jupyter notebooks and scripts in the project for model implementation, training, and evaluation.
 
-```bash
-pip install -r requirements.txt
-```
-
-3. Explore the Jupyter notebooks and scripts in the project for model implementation, training, and evaluation.
-
-Feel free to contribute, report issues, or provide feedback to improve the project!
-
----
-
-*Note: Make sure to replace "your-username" with your GitHub username if you fork the project.*
+ 
